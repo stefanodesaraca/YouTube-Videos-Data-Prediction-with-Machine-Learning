@@ -279,11 +279,6 @@ class YTStatsDownloaderManual(YTStatsDownloader):
         self.channelStatistics = data
         return data
 
-        #ALTERNATIVE METHOD:
-        #youtube = build("youtube", "v3", developerKey=self.apiKey)
-        #rq = youtube.channels().list(part="statistics", id=self.channelID)
-        #print(rq.execute())
-
 
     def getChannelVideoData(self):
 
