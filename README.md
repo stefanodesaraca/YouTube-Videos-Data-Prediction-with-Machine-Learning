@@ -20,9 +20,13 @@ stvar: https://stackoverflow.com/a/65899758/25647133
 How to find the Channel ID of a YouTube Channel: https://www.youtube.com/watch?v=zNABOcxGkt8
 
 <br>
+<br>
+<br>
 
 
-![YT Data API Meme](YouTubeDataAPIBeLike.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+<img src="YouTubeDataAPIBeLike.jpg" 
+        alt="YT Data API Meme" 
+        style="display: block; margin: 0 auto" />
 
 
 
