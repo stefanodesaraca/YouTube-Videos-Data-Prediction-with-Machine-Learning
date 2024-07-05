@@ -24,12 +24,9 @@ How to find the Channel ID of a YouTube Channel: https://www.youtube.com/watch?v
 <br>
 
 
-<img src="YouTubeDataAPIBeLike.jpg" 
-        alt="YT Data API Meme" 
-        style="display: block; margin: 0 auto" />
-
-
-
+<p align="center">
+  <img src="YouTubeDataAPIBeLike.jpg" />
+</p>
 
 
 
