@@ -10,15 +10,6 @@ The Machine Learning analysis includes:
 1. Feature selection process using the "Forward" method implemented through a RandomForestRegressor and comparison of the results with the ones obtained from a different approach (L1 Penalization)
 2. Videos' data prediction with different algorithms and export of the results
 
-
-<br>
-
-<h4>Thanks to:</h4>
-stvar: https://stackoverflow.com/a/65899758/25647133
-
-<h4>Useful information:</h4>
-How to find the Channel ID of a YouTube Channel: https://www.youtube.com/watch?v=zNABOcxGkt8
-
 <br>
 <br>
 <br>
@@ -27,6 +18,17 @@ How to find the Channel ID of a YouTube Channel: https://www.youtube.com/watch?v
 <p align="center">
   <img src="YouTubeDataAPIBeLike.jpg" />
 </p>
+
+<br>
+<br>
+
+
+<h4>Thanks to:</h4>
+stvar: https://stackoverflow.com/a/65899758/25647133
+
+<h4>Useful information:</h4>
+How to find the Channel ID of a YouTube Channel: https://www.youtube.com/watch?v=zNABOcxGkt8
+
 
 
 
