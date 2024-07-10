@@ -36,7 +36,6 @@ class YTDataConversion:
 
     @staticmethod
     def ISO8601ToHMS(durationISO8601: str):
-        print(durationISO8601)
         match = re.match(r'PT(\d+H)?(\d+M)?(\d+S)?', durationISO8601) #This Regular Expression checks respectively: H (Hours), M (Minutes), S (Seconds)
 
         if match:
